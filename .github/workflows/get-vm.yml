@@ -25,4 +25,4 @@ jobs:
       - name: Check IP
         run: curl https://api.ipify.org
       - name: Getting Pharo 13 VM
-        run:  time wget https://files.pharo.org/get-files/130/pharo-vm-Linux-x86_64-stable.zip
+        run:  time wget https://files.pharo.org/get-files/100/pharo-vm-Linux-x86_64-stable.zip
